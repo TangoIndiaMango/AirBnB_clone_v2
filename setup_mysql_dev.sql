@@ -1,5 +1,5 @@
 -- create database hbnb_dev_deb
-CREATE DATABASE IF NOT EXISTS hbnh_dev_db;
+CREATE DATABASE IF NOT EXISTS hbnb_dev_db;
 
 -- create user hbnb_dev with password hbnb_dev_pwd
 CREATE USER IF NOT EXISTS 'hbnb_dev'@'localhost' IDENTIFIED BY 'hbnb_dev_pwd';
